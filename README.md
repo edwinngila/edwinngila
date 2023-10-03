@@ -1,5 +1,7 @@
 <br clear="both">
-<img src="https://miro.medium.com/v2/resize:fit:720/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="gif"></img>
+<div style="display:flex;justify-content:center;">
+    <img src="https://miro.medium.com/v2/resize:fit:720/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="gif"></img>
+</div>
 <h1 align="center">Hi 👋! My name is Edwin ngila</h1>
 
 ###
